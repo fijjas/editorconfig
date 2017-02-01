@@ -1,0 +1,2 @@
+# editorconfig
+base .editorconfig
